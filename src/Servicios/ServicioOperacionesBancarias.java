@@ -141,7 +141,7 @@ pondrá el saldo actual en 0.
     }
 
 
-    public static void mostrarDatos (CuentaClass c1) {ñ
+    public static void mostrarDatos (CuentaClass c1) {
         System.out.println("Datos bancarios \n" +
                 "Nombre " + c1.getNombre() +"\n+" +
                 "DNI " + c1.getDni() +"\n"+
